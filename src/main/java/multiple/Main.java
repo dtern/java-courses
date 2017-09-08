@@ -3,7 +3,7 @@ package multiple;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Привет мир");
+		System.out.println("Привет мир ура!");
 		
 		int first = Integer.valueOf(args[0]);
 	    int second = Integer.valueOf(args[1]);
